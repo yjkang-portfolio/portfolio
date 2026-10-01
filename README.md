@@ -20,13 +20,13 @@
 - Spring Boot
 - Vue.js
 - Webix
+- Database / SQL
 
 ### System & Operation
 - Linux
 - Server Log Analysis
 - Service Monitoring
 - Batch Development & Operation
-- Database / SQL
 
 ### Collaboration
 - 고객사 요구사항 분석 및 대응
