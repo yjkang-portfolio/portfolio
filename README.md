@@ -132,9 +132,3 @@ AICC 포탈의 운영 및 기능 개선과 신규 기능 개발을 담당했습�
 | System Operation | Linux, Log Analysis, Service Monitoring |
 | Project Management | PL, Issue Management, Customer Communication |
 | AICC | 금융권 및 기업 AICC 시스템 개발·운영 |
-
----
-
-## Contact
-
-Email: ohyuj99@naver.com
