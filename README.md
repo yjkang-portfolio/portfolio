@@ -42,8 +42,7 @@
 
 ### 01. 금융 AICC 포탈 프로젝트
 
-**Role:** Web Development & Operation  
-**Contribution:** 50%
+**Role:** Web Development & Operation
 
 금융권 AICC 포탈의 웹 화면 및 기능 개발과 운영 업무를 담당했습니다.
 
@@ -61,8 +60,7 @@
 
 ### 02. 콜봇 AICC 프로젝트
 
-**Role:** PL / Solution Monitoring & Operation  
-**Contribution:** 40%
+**Role:** PL / Solution Monitoring & Operation 
 
 AICC 솔루션 안정화 및 운영 업무를 수행하고 프로젝트 후반 PL 역할을 담당했습니다.
 
@@ -81,8 +79,7 @@ AICC 솔루션 안정화 및 운영 업무를 수행하고 프로젝트 후반 P
 
 ### 03. 콜봇 시스템 Webix → Vue.js 전환
 
-**Role:** Web Developer  
-**Contribution:** 40%
+**Role:** Web Developer
 
 기존 Webix 기반 웹 시스템을 Vue.js 기반으로 전환하는 프로젝트에 참여했습니다.
 
@@ -101,7 +98,6 @@ AICC 솔루션 안정화 및 운영 업무를 수행하고 프로젝트 후반 P
 ### 04. 금융 아웃바운드 음성봇 프로젝트
 
 **Role:** Web Developer  
-**Contribution:** 30%
 
 AICC 포탈의 운영 및 기능 개선과 신규 기능 개발을 담당했습니다.
 
@@ -121,6 +117,9 @@ AICC 포탈의 운영 및 기능 개선과 신규 기능 개발을 담당했습�
 ### Microsoft Certified: Azure AI Fundamentals
 - Exam: AI-900
 
+### SQLD
+- SQL Developer
+
 ---
 
 ## Career Summary
@@ -130,5 +129,5 @@ AICC 포탈의 운영 및 기능 개선과 신규 기능 개발을 담당했습�
 | Web Development | Java, JavaScript, Spring Boot, Vue.js, Webix |
 | Database | MySQL, MariaDB, Oracle, SQL |
 | System Operation | Linux, Log Analysis, Service Monitoring |
-| Project Management | PL, Issue Management, Customer Communication |
+| Project Coordination | PL, Issue Management, Customer Communication |
 | AICC | 금융권 및 기업 AICC 시스템 개발·운영 |
